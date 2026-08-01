@@ -1,0 +1,10 @@
+# Go compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+git-tracker
+
+# Architecture and environment logs
+.env
